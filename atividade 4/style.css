@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(156, 190, 241);
+}
+
+.center{
+    text-align: center;
+}
+
+li, p{
+    line-height: 2;
+}
+
+.alinhado {
+    display: inline;
+}
+
+.bloco {
+    display: block;
+}
